@@ -1,7 +1,7 @@
 ## 🔬 Software Alchemist 🌟: Transforming Ideas into Reality ✨
 
-Welcome to my page!
-I'm a Miracle maker | Software | AI/ML Engineer | Data Scientist
+### Welcome to my page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+I'm a Senior Software | AI/ML Engineer | Data Scientist
 
 Tech stacks I am using mostly are
 
