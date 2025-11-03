@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 Hi, I’m Daniel — Software Alchemist & Problem Solver
+### 👋 Hi, I’m a Software Alchemist & Problem Solver
 
 - 🧠 **AI/ML Engineer & Backend Developer:** Designing intelligent systems, robust APIs, and scalable solutions.
 - 💬 **Ask me anything about machine learning, GenAI, backend architecture, or data science.**
