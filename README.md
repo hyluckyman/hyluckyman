@@ -46,7 +46,6 @@
 
 **Frontend (for API integration & dashboards)**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ---
 
@@ -55,7 +54,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101?logo=notion&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)
@@ -67,16 +65,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?logo=render&logoColor=white)
-
----
-
-### 💡 Let’s Connect
-
-- 🚀 Open to challenging roles, research collabs, and AI/ML consulting.
-- 📫 [Add your contact or LinkedIn here]
-- 🌐 [Portfolio or website if you have one]
 
 ---
 
