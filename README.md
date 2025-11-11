@@ -1,4 +1,4 @@
-## 🤖 AI/ML Engineer & Backend Specialist
+## 🤖 AI/ML Engineer • Backend Specialist • Robotics Innovator
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="AI GIF" />
 
@@ -6,8 +6,9 @@
 
 ### 👋 Hi, I’m a Software Alchemist & Problem Solver
 
-- 🧠 **AI/ML Engineer & Backend Developer:** Designing intelligent systems, robust APIs, and scalable solutions.
-- 💬 **Ask me anything about machine learning, GenAI, backend architecture, or data science.**
+- 🧠 **AI/ML Engineer & Backend Developer:** Designing intelligent systems, robust APIs, and scalable cloud architectures.  
+- 🤖 **Robotics & Physical AI Enthusiast:** Building intelligent, physics-aware agents and digital twins using **NVIDIA Omniverse** and **Isaac Sim**.  
+- 💬 **Ask me anything** about machine learning, generative AI, robotics simulation, or backend architecture.  
 - 📚 **When I'm not coding:** You’ll find me devouring fantasy novels or solving math puzzles.
 
 ---
@@ -31,6 +32,13 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+
+**Robotics & Physical AI**  
+![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-76B900?logo=nvidia&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?logo=nvidia&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?logo=gazebo&logoColor=white)
+![Open3D](https://img.shields.io/badge/Open3D-005FAD?logo=open3d&logoColor=white)
 
 **Backend & APIs**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -65,8 +73,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![NVIDIA CloudXR](https://img.shields.io/badge/NVIDIA_CloudXR-76B900?logo=nvidia&logoColor=white)
 
 ---
 
 > *“The best way to predict the future is to invent it.”* — Alan Kay
-
